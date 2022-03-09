@@ -4,4 +4,5 @@
 
 <div align="center">
 
-# Solutions to **Introduction to Algorithms** _Third Edition_
+# **Introduction to Algorithms** _Third Edition_
+## Book and _Solutions_ 
